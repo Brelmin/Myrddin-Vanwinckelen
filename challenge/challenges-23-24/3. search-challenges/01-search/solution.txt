@@ -1,0 +1,6 @@
+Python
+SQL injection
+1991
+equalsIgnoreCase
+100TB
+de totale opslag delen door 10
